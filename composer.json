@@ -13,16 +13,6 @@
     "fix": "./vendor/friendsofphp/php-cs-fixer/php-cs-fixer fix",
     "test": "./vendor/phpunit/phpunit/phpunit"
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "git@bitbucket.org:praetoriantechnology/cache-service.git"
-    },
-    {
-      "type": "vcs",
-      "url": "git@bitbucket.org:praetoriantechnology/sportsbook-orm-pack.git"
-    }
-  ],
   "require-dev": {
     "friendsofphp/php-cs-fixer": "^2.18",
     "phpunit/phpunit": "^9.0"
