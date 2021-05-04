@@ -21,10 +21,7 @@
     "symfony/config": "^5.2 || ^4.4",
     "symfony/dependency-injection": "^5.2 || ^4.4",
     "symfony/http-kernel": "^5.2 || ^4.4",
-    "praetoriantechnology/cache-service": "^1.3.0",
-    "symfony/mercure-bundle": "^0.3.2",
     "monolog/monolog": "^2.2",
-    "praetoriantechnology/venus-orm-pack": "dev-master",
     "gesdinet/jwt-refresh-token-bundle": "^0.12.0"
   }
 }
