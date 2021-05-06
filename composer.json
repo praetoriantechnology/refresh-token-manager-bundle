@@ -21,7 +21,7 @@
     "symfony/config": "^5.2 || ^4.4",
     "symfony/dependency-injection": "^5.2 || ^4.4",
     "symfony/http-kernel": "^5.2 || ^4.4",
-    "monolog/monolog": "^2.2",
+    "monolog/monolog": "*",
     "gesdinet/jwt-refresh-token-bundle": "^0.12.0"
   }
 }
